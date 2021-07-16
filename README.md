@@ -1,6 +1,6 @@
 ## 👋🏼 Hola,<br/> Mi nombre es Alejandro Hurtado Chacñama
 
-Soy desarrollador de software y un aprendiz de por vida. En mi blog personal [yachaycode.com] (https://yachaycode.com/), intento compartir mis experiencias sobre Desarrollo de Software.
+Soy desarrollador de software y un aprendiz de por vida. En mi blog personal [yachaycode.com](https://yachaycode.com/), intento compartir mis experiencias sobre Desarrollo de Software.
 
 Nací y crecí en Apurímac al sur de Perú, actualmente vivo en Lima Perú.
 
