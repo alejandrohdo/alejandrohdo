@@ -1,6 +1,11 @@
 ## 👋🏼 Hola,<br/> Mi nombre es Alejandro Hurtado
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandrohdo)](https://github.com/alejandrohdo/github-readme-stats)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/alejandrohdo/count.svg" />
+</p>
+
 Soy desarrollador de software y un aprendiz de por vida. En mi blog personal [yachaycode.com](https://yachaycode.com/), intento compartir mis experiencias sobre Desarrollo de Software.
 
 Nací y crecí en Apurímac al sur de Perú, actualmente vivo en Lima Perú.
