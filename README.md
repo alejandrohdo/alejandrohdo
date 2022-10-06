@@ -1,4 +1,5 @@
 ## 👋🏼 Hola,<br/> Mi nombre es Alejandro Hurtado
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandrohdo)](https://github.com/alejandrohdo/github-readme-stats)
 
 Soy desarrollador de software y un aprendiz de por vida. En mi blog personal [yachaycode.com](https://yachaycode.com/), intento compartir mis experiencias sobre Desarrollo de Software.
 
