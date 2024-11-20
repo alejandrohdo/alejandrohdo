@@ -7,7 +7,7 @@
   <img src="https://profile-counter.glitch.me/alejandrohdo/count.svg" />
 </p>
 
-Soy Software Engineer, Big Data Engineer y Data Architect, con más de 10 años de experiencia diseñando sistemas escalables y soluciones basadas en Big Data e Inteligencia Artificial, impulsando el desarrollo de tecnologías que transforman datos en innovación para el progreso de la sociedad desde el código.
+Soy Software Engineer, Big Data Engineer y Data Architect, con más de 10 años de experiencia diseñando sistemas escalables y soluciones basadas en Big Data e Inteligencia Artificial. He liderado proyectos que procesan millones de registros diarios, transformando datos en herramientas clave para la innovación.
 
 Nací y crecí en Apurímac al sur de Perú, actualmente vivo en Lima Perú.
 
